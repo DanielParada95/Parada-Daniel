@@ -1,0 +1,43 @@
+a-
+- permite identifica la versión de HTML empleada en la página web.
+- hace q el navegador visualice correctamente la página web.
+
+b-
+
+head- se utiliza para indicar informacion del documento
+
+title- titulo de la pag
+
+meta- siministra informacion sobre la pagina web
+
+style- estilo de la pagina, colores, fuentes, etc.
+
+body- lugar donde se aloja todo el contenido visual y otras etiquetas.
+
+h1... h5- etiquetas de encabezados de pag., en orden de tamaños siendo 1 el mas grande.
+
+a- hipervinculos que vinculan paginas.
+
+strong- texto en negrita.
+
+br- salto de linea
+
+ul- para crear una lista
+
+li- items para ul o ol
+
+p- para parrafo
+
+span- aplica estilo de texto o agrupar elementos
+
+table- crea una tabla.
+
+tr- encierran las columnas y define las tablas
+
+tb- define columnas
+
+img- insertar imagen
+
+c-
+
+-si, hay diferencias. Pero se recomienda no hacerlo por motivos del renderizado, dado el motivos de procesamientos.
